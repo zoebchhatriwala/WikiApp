@@ -1,0 +1,18 @@
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\bin\Debug\WikiApp.exe.config
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\bin\Debug\WikiApp.exe
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\bin\Debug\WikiApp.pdb
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.csprojResolveAssemblyReference.cache
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.Form1.resources
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.Properties.Resources.resources
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.csproj.GenerateResource.Cache
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.exe
+c:\users\zoeb j chhatriwala\documents\visual studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.pdb
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\bin\Debug\WikiApp.exe.config
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.exe
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.pdb
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\bin\Debug\WikiApp.exe
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\bin\Debug\WikiApp.pdb
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.csprojResolveAssemblyReference.cache
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.Form1.resources
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.Properties.Resources.resources
+E:\Users\Zoeb Chhatriwala\Documents\Visual Studio 2012\Projects\WikiApp\WikiApp\obj\Debug\WikiApp.csproj.GenerateResource.Cache
